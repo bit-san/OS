@@ -1,0 +1,3 @@
+QEMUのオプションでフロッピーディスクのブートを明示する
+	qemu-system-i386 -fda halloos.img 
+	//-fdaオプションをつける
